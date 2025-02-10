@@ -1,4 +1,3 @@
-# Kelvin Eugene Williams – GitHub Profile README  
 ## About Kelvin Eugene Williams  
 
 Kelvin Eugene Williams is an experienced Internet Protocol Engineer and Developer with over 25 years of expertise in VoIP/Telephony, corporate networking, and software development. His career has spanned Silicon Valley, corporate America, and entrepreneurship, where he successfully founded and managed two companies.  
